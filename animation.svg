@@ -19,7 +19,7 @@
 
         .title {
           align-self: center;
-          padding-top: 30px;
+          padding-top: 50px;
         }
 
         .title span {
